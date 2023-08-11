@@ -1,0 +1,68 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,800&display=swap');
+
+.bg{
+    background-image: url(https://images5.alphacoders.com/351/thumb-1920-351885.jpg);
+}
+
+.form1{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 10px 10px black ;
+    background-size: cover;
+    background-image:url(https://i.pinimg.com/236x/6b/75/e1/6b75e19c50c8143dc0a3ea209f5c8bc7.jpg) ; 
+    font-family: 'Kanit', sans-serif;
+
+}
+.edit{
+    text-align: end;
+    padding-right: 200px;
+   
+}
+
+.container{
+    box-shadow: 10px 20px 30px rgb(34, 34, 34);
+}
+
+.form2{
+    font-family: 'Kanit', sans-serif;
+    background-color:transparent;
+}
+
+
+.error{
+    color: rgb(255, 84, 84);
+    font-size: 16px;
+    margin-top: 2px;
+}
+
+p{ 
+    text-align: center;
+    text-shadow: 2px 1px 2px  rgb(158, 158, 158);
+    font-family: 'Kanit', sans-serif;
+font-family: 'Rajdhani', sans-serif;
+font-family: 'Space Mono', monospace;
+}
+
+i{
+    padding: 8px;
+    text-shadow: 2px 3px 2px rgb(105, 105, 105);
+
+}
+.h2{
+    text-shadow: 5px 10px 10px black ;
+
+}
+.inputgroup input {
+    background-color: rgb(221, 221, 221);
+}
+.input.group.success input{
+    border-color: green;
+}
+.input.group.error input{
+    border-color: red;
+}
+
+
+  
